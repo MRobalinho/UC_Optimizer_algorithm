@@ -1,5 +1,5 @@
 # UC_Optimizer_algorithm
-## Optimizers algorithms  (Hungarian and Vickrey Aution)
+## Optimizers algorithms  (Hungarian and Vickrey Auction)
 
 ## Munkres implementation for Python
 Let C be an n by n matrix representing the costs of each of n workers to perform any of n jobs.
